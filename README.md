@@ -14,4 +14,6 @@ I want to write code that talks directly to the hardware. Interested in embedded
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+## Stats
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veissyo&layout=compact&theme=dark&hide_border=true&card_width=400&hide=html,typescript,javascript" /></td>
