@@ -16,4 +16,4 @@ I want to write code that talks directly to the hardware. Interested in embedded
 
 ## Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veissyo&layout=compact&theme=dark&hide_border=true&card_width=400&hide=html,typescript,javascript" /></td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veissyo&layout=compact&theme=dark&hide_border=true&card_width=400&hide=html,typescript,javascript,cmake" /></td>
