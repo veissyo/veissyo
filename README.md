@@ -15,4 +15,4 @@ I want to write code that talks directly to the hardware. Interested in embedded
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## Stats 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=veissyo&layout=compact&langs_count=2&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=2&theme=dark)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=veissyo&layout=compact&langs_count=3&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=2&theme=dark)
